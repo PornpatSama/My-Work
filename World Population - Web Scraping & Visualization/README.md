@@ -7,7 +7,7 @@ This project'aim is to show case skills in the following areas:
   5) API request<br>
 
 
-#Data Pipeline<br>
+# Data Pipeline<br>
 <img width="622" alt="World Population's Data Pipeline" src="https://user-images.githubusercontent.com/103621521/163367708-37c5e718-fcad-4017-a403-ae0edf165869.png">
 
 
