@@ -3,8 +3,8 @@ This project'aim is to show case skills in the following areas:
   1) Web Scraping<br>
   2) Data Pre-processing<br>
   3) ETL pipeline<br>
-  4) Data Visualization<br>
-  5) API request; Data is loaded via API to <a href="https://docs.google.com/spreadsheets/d/1J45ZZpJtmy1ItjT9BF3zxS2wF-g9pCWlmOdvS9UApsY/edit?usp=sharing">Google Sheet<a><br>
+  4) API request; Data is loaded via API to <a href="https://docs.google.com/spreadsheets/d/1J45ZZpJtmy1ItjT9BF3zxS2wF-g9pCWlmOdvS9UApsY/edit?usp=sharing">Google Sheet<a><br>
+  5) Data Visualization<br> Data in <a href="https://docs.google.com/spreadsheets/d/1J45ZZpJtmy1ItjT9BF3zxS2wF-g9pCWlmOdvS9UApsY/edit?usp=sharing">Google Sheet<a><br> are visualized with <a href="https://datastudio.google.com/reporting/29a7c054-48be-4cf7-a515-84a6b8cdb8c3">Google Data Studio<a><br>
 
 
 # Data Pipeline<br>
